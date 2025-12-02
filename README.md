@@ -1,7 +1,7 @@
 <h1 align="center">AI Agents for Portfolio Construction</h1>
 
 
-Our project aims to provide a stock screening agent that can provide buy/hold/sell signals based on historical data, and use these signals to construct a portfolio with better performance in terms of sharpe ratio.
+Our project aims to provide a stock screening agent that can provide buy/hold/sell signals based on historical data, and use these signals to construct a portfolio with better performance based on sharpe ratio.
 
 ## Available Data
 - Size, book-to-value, and 12 month momentum data from CRSP/Compustat, for S&P500 firms only. 
